@@ -39,20 +39,13 @@ Once your content is in the repo, use these three phrases with Copilot to build 
 
 # [Microsoft Build 2026](https://build.microsoft.com)
 
-## 🔥 BRKXXX: SESSION TITLE
+## 🔥 OD812: Fabric IQ - Bringing Enterprise Ontology Directly into the Developer Workflow
 
 ### Session Description
 
-*Add Session Description*
+This session shows how Microsoft Fabric IQ unify real-time data and semantic context to power trusted operational AI, helping teams and agents reason, decide, and act on business context in real time.
 
-### 🏫 Getting started in a guided session
-
-To get started in a guided lab session:
-- <!-- step 1 -->
-- <!-- step 2 -->
-- <!-- step 3 -->
-
-### 🏠 Getting started in your own environment
+### 🚀 Getting started
 
 If you're following these steps at your own pace:
 - Clone this repository
@@ -63,9 +56,9 @@ If you're following these steps at your own pace:
 
 By the end of this session, you will be able to:
 
-- <!-- outcome 1 -->
-- <!-- outcome 2 -->
-- <!-- outcome 3 -->
+- Fabric unifies real-time data and semantic context to power trusted operational AI.
+- Fabric elevates how your teams and AI agents work with data.
+- Fabric powers AI-driven, real-time execution in the modern business.
 
 ### 💬 Keep Learning with Copilot
 
@@ -79,9 +72,9 @@ Use these as a starting point — or write your own!
 
 ### 💻 Technologies Used
 
-1. <!-- technology 1 -->
-1. <!-- technology 2 -->
-1. <!-- technology 3 -->
+1. [Microsoft Fabric IQ (preview)](https://learn.microsoft.com/fabric/iq/overview)
+1. [Real-Time Intelligence in Microsoft Fabric](https://learn.microsoft.com/fabric/real-time-intelligence/overview)
+1. [OneLake in Microsoft Fabric](https://learn.microsoft.com/fabric/onelake/onelake-overview)
 
 ### 📚 Resources and Next Steps
 
@@ -108,17 +101,12 @@ For more info, other clients, and to post questions, visit the [Learn MCP Server
 
 ## Content Owners
 
-<!-- TODO: Add yourself as a content owner
-1. Change the src in the image tag to {your github url}.png
-2. Change INSERT NAME HERE to your name
-3. Change the github url in the final href to your url. -->
-
 <table>
 <tr>
-    <td align="center"><a href="http://github.com/yourGitHubHandle">
-        <img src="https://github.com/yourGitHubHandle.png" width="100px;" alt="INSERT NAME HERE"/><br />
-        <sub><b>INSERT NAME HERE</b></sub></a><br />
-            <a href="https://github.com/yourGitHubHandle" title="talk">📢</a>
+    <td align="center"><a href="https://github.com/tpalmer_microsoft">
+        <img src="https://github.com/tpalmer_microsoft.png" width="100px;" alt="Tessa Kloster"/><br />
+        <sub><b>Tessa Kloster</b></sub></a><br />
+            <a href="https://github.com/tpalmer_microsoft" title="talk">📢</a>
     </td>
 </tr></table>
 
