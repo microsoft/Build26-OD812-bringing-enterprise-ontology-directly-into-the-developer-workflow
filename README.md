@@ -1,36 +1,3 @@
-# 🚀 Get Started
-
-**This repo is where attendees go to continue their learning after your session — and your Copilot agent will help you set it up.**
-
-### Step 1: Open your repo
-
-Open this repo in a **Codespace** (click the green **Code** button → **Create a Codespace**) — or clone it locally. Then open **GitHub Copilot Chat**.
-
-### Step 2: Add your content
-
-Give the agent something to work with. Drag files into the Explorer panel — session abstracts, outlines, screenshots, notes — and drop them in one of two places:
-
-| Where to put it | What goes there | Who sees it |
-|---|---|---|
-| **`_remove-before-publish/`** | Internal reference materials (abstracts, outlines, screenshots, planning docs) | **Copilot only** — never published |
-| **`/docs/`, `/src/`, or repo root** | Lab instructions, demo code, sample data, getting-started guides | **Attendees** — published with the repo |
-
-> 💡 Not sure? Start by dropping your session abstract or outline into `_remove-before-publish/`. The agent will figure out what to do with it.
-
-### Step 3: Ask the Agent
-
-Once your content is in the repo, use these three phrases with Copilot to build out your session repo:
-
-| Phrase to use with Copilot | What it does | When to run it |
-|---|---|---|
-| **"Help me get started"** | Sets up session title, description, outcomes, and owners | After you've added your session abstract or outline to the repo |
-| **"Help me refine content"** | Organizes your session content into the repo | Each time you add or update content |
-| **"Help me finalize"** | Final review, cleanup, and publication prep | When you're ready to publish |
-
-> 💡 **These three phrases are just the starting point.** Copilot can do much more — try asking it to brainstorm next steps for attendees, generate code samples, or build out your repo structure. Don't be afraid to put it in plan mode and ask for what you need.
-
----
-
 <a name="start-building"></a>
 <br>
 <p align="center">
@@ -43,14 +10,14 @@ Once your content is in the repo, use these three phrases with Copilot to build 
 
 ### Session Description
 
-This session shows how Microsoft Fabric IQ unify real-time data and semantic context to power trusted operational AI, helping teams and agents reason, decide, and act on business context in real time.
+This session shows how Microsoft Fabric IQ unifies real-time data and semantic context to power trusted operational AI, helping teams and agents reason, decide, and act on business context in real time.
 
 ### 🚀 Getting started
 
 If you're following these steps at your own pace:
 - Clone this repository
 - Set up your development environment
-- <!-- step 3 -->
+- Use the resources below to continue learning with Fabric IQ and Real-Time Intelligence.
 
 ### 🧠 Learning Outcomes
 
@@ -62,13 +29,25 @@ By the end of this session, you will be able to:
 
 ### 💬 Keep Learning with Copilot
 
-Try these prompts with GitHub Copilot to explore the topics from this session. Open Copilot Chat in VS Code (`Ctrl+Alt+I` on Windows/Linux, `Cmd+Shift+I` on Mac), paste a prompt, and see what you learn. Try connecting the [Microsoft Learn MCP Server](#-microsoft-learn-mcp-server) for the latest official documentation.
+Try these prompts with GitHub Copilot to explore the topics from this session. Open Copilot Chat in Visual Studio Code, paste a prompt, and see what you learn. Try connecting the [Microsoft Learn MCP Server](#-microsoft-learn-mcp-server) for the latest official documentation.
 
-Use these as a starting point — or write your own!
+1. Understand the architecture:
 
-<!-- Prompts will be tailored to this session's content during repo setup. -->
+```text
+Explain how Microsoft Fabric IQ, Real-Time Intelligence, and OneLake work together to power trusted operational AI.
+```
 
-> *Prompts coming soon — check back after the session content is finalized.*
+2. Learn from official guidance:
+
+```text
+Using the Microsoft Learn MCP Server, find the latest guidance for Fabric IQ ontology design and summarize best practices for enterprise modeling.
+```
+
+3. Build an applied scenario:
+
+```text
+Help me design a simple operations agent workflow that uses Real-Time Intelligence anomaly detection and Fabric IQ business context.
+```
 
 ### 💻 Technologies Used
 
@@ -81,13 +60,19 @@ Use these as a starting point — or write your own!
 | Resource | Description |
 |:---------|:------------|
 | [https://aka.ms/build26-next-steps](https://aka.ms/build26-next-steps) | Explore lab and session repos to further your learning from Microsoft Build |
+| [Fabric RTI in a Day Workshop](https://aka.ms/nextRTIAD) | Hands-on workshop for real-time routing, monitoring, alerting, and AI-powered analytics |
+| [Fabric IQ Ontology Playground](https://aka.ms/ontology-playground) | Interactive playground to explore ontologies and intelligence modeling in Fabric IQ |
+| [Fabric IQ Tutorial](https://aka.ms/ontology-tutorial) | Guided tutorial to get started with Fabric IQ concepts and implementation |
+| [Fabric IQ Forum](https://aka.ms/fabric-iq-forum) | Community forum for questions and implementation discussions |
+| [Fabric IQ Overview](https://aka.ms/fabric-iq-overview) | Product overview and capability summary for Fabric IQ |
+| [Fabric IQ Ideas](https://aka.ms/fabric-iq-ideas) | Submit and vote on Fabric IQ feature ideas |
 
 
 ### 🌟 Microsoft Learn MCP Server
 
 The Microsoft Learn MCP Server gives your AI agent direct access to Microsoft's official documentation — grounded, up-to-date answers about the products and services covered in this session.
 
-**VS Code** — One click installation: 
+**Visual Studio Code** — One click installation: 
 
 [![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_Microsoft_Learn_MCP-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://vscode.dev/redirect/mcp/install?name=microsoft-learn&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Flearn.microsoft.com%2Fapi%2Fmcp%22%7D)
 
