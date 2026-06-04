@@ -66,6 +66,7 @@ Help me design a simple operations agent workflow that uses Real-Time Intelligen
 | [Fabric IQ Forum](https://aka.ms/fabric-iq-forum) | Community forum for questions and implementation discussions |
 | [Fabric IQ Overview](https://aka.ms/fabric-iq-overview) | Product overview and capability summary for Fabric IQ |
 | [Fabric IQ Ideas](https://aka.ms/fabric-iq-ideas) | Submit and vote on Fabric IQ feature ideas |
+| [Watch the session recording](https://aka.ms/build26/OD812/youtube) | Watch the recorded Microsoft Build session. |
 
 
 ### 🌟 Microsoft Learn MCP Server
